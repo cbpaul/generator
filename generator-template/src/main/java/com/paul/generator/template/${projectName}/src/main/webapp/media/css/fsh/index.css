@@ -1,0 +1,58 @@
+/*sherry 2013-10-08*/
+html, body, h1, h2, h3, h4, ul, ol, li, p,select,option,a,span,table,tr,td,input{margin:0;padding:0;}
+table,tr,td{border:0 none;}
+ul{list-style:none;}
+.fl{float:left;}
+.fr{float:right;}
+.clearfix{clear:both;}
+.clearfix:after{clear:both;content:"";line-height:0;display:block;}
+i{font-style:normal;}
+a{text-decoration:none;}
+html, body {font-family:"黑体";
+/*font-size=62.5%;*/
+margin:0;
+}
+body{padding-top:0;background:#ffffff;}
+.blue{color:#008cdd;}
+.plr30{padding:0 30px;}
+.pbt15{padding:15px 0;}
+.mtb15{margin:15px 0;}
+.prl10{padding:0 10px;}
+.red{color:#c51313;}
+/*.ml32{margin-left:10px;}*/
+.mr15{margin-right:15px;}
+.ml15{margin-left:15px;}
+.w122{width:131px;text-align:center;}
+.fontStyle{font-size:26px;font-weight:normal;}
+.radius{border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;-o-border-radius:5px;-mz-border-radius:5px;}
+body{position:relative;margin:0 auto;}
+#header{text-align:center;background-color:#197fa8;padding:26px 0;position:fixed;top:0;width:100%;z-index:100;}
+#header .title{color:#ffffff;font-size:30px;font-weight:normal;height:30px;line-height:30px;}
+#header .a-header-link{width:58px;height:58px;position:absolute;display:block;background:url(../img/webApp_icon.png) no-repeat;}
+#header .back{background-position:-38px -37px;left:20px;top:11px;}
+#header .home{background-position:-38px -111px;right:20px;top:11px;}
+
+#main{position:relative;z-index:99;background:#ffffff;}
+
+ .ic{width:560px;background:#ff7f00;display:block;text-align:center;color:#ffffff;font-size:30px;margin:40px auto;padding:29px 0;}
+  .ic:hover{opacity:0.8;}
+.grey{color:#979797;}
+.footer  .greybg{background-color:#7b7b87;}
+.greybg{background-color:#7b7b87;}
+
+.darkGrey{color:#505050;}
+
+/*.footer{position:fixed;bottom:60px;left:0;margin:0 auto;width:100%;z-index:100;top:600px;}*/
+.footer{position:relative;width:100%;z-index:100;}
+.no-call .greybg{background-color:#7b7b87;}
+.clickMore{ background-color: #EEF0F2;
+    border: 1px solid #D2D9E0;
+    font-size: 0;
+    margin: 14px 40px;
+    text-align: center;
+	   color: #545454;
+    font-size: 30px;
+	padding:20px 0;
+    vertical-align: middle;display:block;}
+a.clickMore:hover{color: #545454;}
+

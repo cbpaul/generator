@@ -1,0 +1,15 @@
+/*suyin 2013-05-09*/
+img{cursor: pointer;margin-bottom: -3px;margin-right: -3px; display: inline-block;}
+		td{white-space: nowrap;}
+	    .addItem{background-image: url("../img/Item.Add.gif");
+	            display: inline-block;
+	            height: 14px;
+			    width: 16px;
+			    cursor: pointer;}
+	    .delItem{background-image: url("../img/Item.Delete.gif");
+	            display: inline-block;
+	            height: 14px;
+			    width: 12px;
+			    margin-bottom: -2px;
+			    cursor: pointer;}
+		span{cursor: pointer;}

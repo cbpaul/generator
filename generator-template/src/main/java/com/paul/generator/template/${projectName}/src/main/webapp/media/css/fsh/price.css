@@ -1,0 +1,43 @@
+/*sherry 2013-10-09*/
+.ui-mobile div{text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none;}
+.priceBox{width:640px;margin:0 auto;/*padding-top:30px;*/}
+.priceBox .inner{padding:0 20px 40px;}
+.priceBox .inner .in {padding:15px 0;}
+.priceBox .inner .in .inSp {font-size:26px;font-weight:normal;color:#979797;display:inline-block;padding:4px 0 0 0;}
+.priceBox .inner .in .inSp  span{width:135px;text-align:center;display:inline-block;}
+.priceBox .inner .in .inSp .red{color:#c51313;padding:0 10px;font-size:24px;}
+.priceBox .inner .in .ui-input-text .inp{width:398px;height:44px;border:1px solid #797979;background:#ffffff;font-size:26px;color:#979797;padding-left:20px;} 
+.checkBox {padding-top:18px;height:40px;display:inline-block;line-height:40px;color:#505050;font-size:26px;font-weight:normal;}
+.checkBox i.check{padding-left:64px;background:url(../img/webApp_icon.png) -133px -115px no-repeat;width:53px;height:40px;display:inline-block;color:#505050;}
+.checkBox i.ac{background-position:-133px -41px;} 
+.priceBox .inta .ta{width:378px;height:234px;border:1px solid #797979;background:#ffffff;font-size:26px;color:#979797;resize:none;padding:20px;}
+.in .getPrice{width:560px;background:#ff7f00;display:block;text-align:center;color:#ffffff;font-size:30px;margin:0 auto 40px;padding:29px 0;}
+.in .getPrice:hover{opacity:0.7;}
+.ui-body-c .in .ui-link{color:#ffffff;font-weight:normal;}
+.ui-body-c .in .ui-link:hover{color:#ffffff;}
+
+.in .ui-body-c, .ui-overlay-c{border:0 none;}1`
+.in input.ui-input-text, textarea.ui-input-text{margin:0;padding:0;}
+.in div.ui-input-text input.ui-input-text, div.ui-input-text textarea.ui-input-text, .ui-input-search input.ui-input-text{padding:0;}
+.in input.ui-input-text,.in textarea.ui-input-text{margin:0;}
+.in .ui-body-c, .ui-overlay-c{text-shadow:none;}
+.in  textarea.ui-input-text{-moz-box-sizing:content-box;-webkit-box-sizing:content-box;-o-box-sizing:content-box;box-sizing:content-box}
+.in .ui-shadow-inset{box-shadow:none;}
+
+
+/*appointmentSj*/
+.in-time #test_default{width:398px;}
+.in-time .demos{float:left;width:418px;text-align:left;border:1px solid #797979;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;-o-border-radius:5px;-mz-border-radius:5px;}
+.in-time .ui-input-search, .in-time div.ui-input-text{margin:0;}
+.in-time #test_default{color:#979797;font-size:26px;font-weight:normal; padding: 4px 0 4px 22px;}
+.in-time div.ui-input-text{padding:0;}
+.priceBox .inner  .in .addr{color:#000000;font-size:26px;font-weight:normal;white-space:normal;max-width:420px;overflow:hidden;/*text-overflow:ellipsis;*/display:inline-block;}
+.in .greybg{background:#7b7b87;}
+
+/*price_suc*/
+.price_suc{background-position: -150px -203px;width:400px;margin-top:115px;}
+.price_suc p{text-align:center;}
+.ui-body-c .sj .identify{color:#ff7f00;}
+.ui-body-c .sj .identify:hover{color:#ff7f00;}
+
+.sj .carAssess .idt_in .ui-input-text{width:238px;}

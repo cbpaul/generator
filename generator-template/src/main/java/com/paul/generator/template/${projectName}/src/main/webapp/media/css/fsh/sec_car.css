@@ -1,0 +1,107 @@
+/*sherry 2013-10-11*/
+.secNav{ background: none repeat scroll 0 0 #41434a;
+    height: 90px;
+    margin: 0 auto;
+    position: relative;
+    width: 640px;box-sizing:border-box;}
+.show-carBox .navList ul li{float: left;
+    padding-right: 11px;
+    padding-top: 18px;
+	padding-bottom:9px;}
+.show-carBox .navList ul li a	{ 
+    color: #7B7B87;
+    display: inline-block;
+    font-size: 26px;
+    font-weight: normal;
+    padding: 16px 0;
+    text-align: center;
+    width: 197px;
+	position:relative; 
+	}
+	.trigIc{width:26px;height:26px;display:inline-block;position:absolute;background:url(../img/trig_icon.png) 0 0 no-repeat;top:16px;}
+	.trigIc_up{background-position:-174px 0;}
+.secNav ul li{border-right:1px solid #cdcdcd;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
+.secNav ul li.last{border-right:0 none;}
+.sec-carList{position:relative;}
+.sec-carList .inner{}
+.sec-carList .inner ul li{border-bottom:1px solid #d1d1d1;padding:16px 35px 16px 16px;position:relative;}
+.sec-carList .inner img{margin-right:34px;}
+.sec-carList .inner .sec-carInfo p{color:#505050;font-size:22px;font-weight:normal;padding:3px 0;}
+.sec-carList .inner .sec-carInfo p.secT{color:#000000;font-size:30px;}
+.sec-carList .inner .sec-carInfo p.red{color:#c51313;}
+.sec-carList .inner .secIcon{background:url(../img/webApp_icon.png) -526px -1px no-repeat;width:18px;height:27px;display:block;position:absolute;top:70px;right:-17px;}
+.sec-carList .sec-carlist-link{position:relative;display:block;cursor:pointer;}
+
+/*secAssess*/
+.carAssess{position:relative;padding:30px 0 30px 40px;margin:0 auto;width:600px;}
+.carAssess .in{padding:15px 0;}
+.carAssess .sameIn{padding:0 0 30px 0;}
+.carAssess .in select{width:260px;background:0 none;}
+.carAssess .in .ui-select{width:65%;float:left;margin:0 20px;}
+.carAssess .in .ui-btn-inner{padding:18px 20px;}
+.carAssess .in .ui-btn-corner-all{border-radius:0;margin:0;}
+.carAssess .in .ui-btn-inner .ui-btn-text{color:#000000;font-size:30px;font-weight:normal;}
+.carAssess .in  .ui-input-text {width:322px; float:left;color:#979797;font-size:26px;font-weight:normal;}
+.carAssess .long  .ui-input-text {width:394px;}
+
+/*.carAssess	div.ui-input-text{padding:0;}*/
+.carAssess .in .ui-corner-all{border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;-o-border-radius:5px;}
+.carAssess .in  .ui-input-search,.carAssess .in div.ui-input-text{margin:0;}
+.carAssess .h74 span{display:inline-block;color:#979797;font-size:26px;font-weight:normal;padding:21px 0;}
+ .carAssess .h74 .meter{padding:20px 0 20px 20px;}
+ .carAssess .h74  i.red{display:inline-block;color:#c51313;}
+.carAssess .h74 span.black26{font-size:26px;color:#000000;font-weight:normal;}
+
+/*secAssess_result*/
+.sec_result{padding:30px;}
+.sec_result p.secT span{color:#000000;font-size:30px;font-weight:normal;}
+.sec_result p,.sec_result span{color:#505050;font-size:22px;font-weight:normal;}
+ .carAssess .h74  .checkBox i.check{background: url("../img/webApp_icon.png") no-repeat scroll -133px -115px rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 40px;
+    padding-left: 64px;
+    width: 53px;}
+ .carAssess .h74 .checkBox i.ac{background-position: -133px -41px;}	
+ 
+ /**/
+ .sj_suc {
+    background: url("../img/webApp_icon.png") no-repeat scroll -269px -97px rgba(0, 0, 0, 0);
+    margin: 58px auto 52px;
+    padding-top: 96px;
+    position: relative;
+    width: 266px;
+}
+.price_suc {
+    background-position: -150px -203px;
+    margin-top: 115px;
+    width: 400px;
+}
+
+.price_suc p {
+    text-align: center;
+}
+.sj_suc p {
+    color: #FF7F00;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+/*ac*/
+.acBox{position:relative;}
+.acBox ul li{padding:18px;border-bottom:1px solid #d1d1d1;}
+.acBox ul li img{margin-right:22px;}
+.acBox ul li a.acLink{display:block;cursor:pointer;}
+.acBox ul li  p{color:#000000;font-size:30px;font-weight:normal;padding:30px 0;}
+
+.carAssess  .identifyIn .ui-input-text{width:238px;}
+
+.acBox .more{ background-color: #EEF0F2;
+    border: 1px solid #D2D9E0;
+    font-size: 0;
+    margin: 14px 40px;
+    text-align: center;
+	   color: #545454;
+    font-size: 30px;
+	padding:20px 0;
+    vertical-align: middle;display:block;}
+.acBox	a.more:hover{color: #545454;}

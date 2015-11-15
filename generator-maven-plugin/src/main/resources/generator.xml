@@ -12,7 +12,7 @@
 	<!-- jsp namespace: web/${namespace}/${className}/list.jsp -->
 	<entry key="namespace">pages</entry>
 
-	<entry key="outRoot">D:\myeclipseworkspace\myspace</entry>
+	<entry key="outRoot">/Volumes/hddmacos/cbusr/workspace</entry>
 	<entry key="projectName">hfcore</entry>
 	
 	

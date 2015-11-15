@@ -32,6 +32,7 @@ public class ${className}  extends IdEntity implements Serializable {
 	/**
 	 * ${column.remarks}
 	 */
+	 @Column(name="${column.sqlName}")
 	private ${column.javaType}  ${column.columnName?uncap_first};
 	public ${column.javaType} get${column.columnName}() {
 		return ${column.columnName?uncap_first};

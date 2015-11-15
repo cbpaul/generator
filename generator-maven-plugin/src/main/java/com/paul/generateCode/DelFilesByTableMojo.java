@@ -55,7 +55,7 @@ public class DelFilesByTableMojo extends AbstarctGeneratorMojo {
 		}
 	}
 	public static void main(String[] args) throws Exception{
-		String [] tables=new String[]{"test"};
+		String [] tables=new String[]{"hf_country_scores"};
 		GeneratorFacade g=new GeneratorFacade();
 		g.getGenerator().setTemplateRootDirs("classpath:com/paul/generatortable/template");
 		g.deleteByTable(tables);
